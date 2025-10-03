@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "redhat.vscode-yaml",
+    "ms-python.python",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

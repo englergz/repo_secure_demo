@@ -1,0 +1,3 @@
+# Intencionalmente mínimo al inicio del lab
+__pycache__/
+*.pyc
