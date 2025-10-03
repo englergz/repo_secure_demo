@@ -1,3 +1,9 @@
 # Intencionalmente mínimo al inicio del lab
 __pycache__/
 *.pyc
+.env
+*.pem
+*.key
+*.pfx
+*.jks
+*.keystore
