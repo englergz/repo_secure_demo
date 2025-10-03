@@ -8,3 +8,4 @@ Se utilizará para:
 - Subir a GitHub (público) y activar características de seguridad gratuitas
 - Mitigar: `.gitignore`, eliminar del índice, documentar incidente
 - Incidente simulado: secreto expuesto y mitigado.
+- Cambio TEST
